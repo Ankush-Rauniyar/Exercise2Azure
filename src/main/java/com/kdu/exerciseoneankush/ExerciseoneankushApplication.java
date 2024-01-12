@@ -18,4 +18,5 @@ public class ExerciseoneankushApplication {
 			return "Hello, Ankush Rauniyar,KD-24 batch(Github)";
 		}
 	}
+
 }
